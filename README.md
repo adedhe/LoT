@@ -3,7 +3,7 @@ Language of Thought Modelling of Cognitive Algorithms
 
 This project builds models connecting implicit generative strategies to explicit reasoning, contributing to AI alignment, cognitive modeling, and understanding abstraction in diverse human, animal, and machine intelligence.
 
-This project was driven by two research interns:
+The following interns contributed to this project:
 1. Soham Kulkarni @kulkarnisoham833
 2. Ridhi Bandaru @bendemonium
 
